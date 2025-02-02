@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Rahul Jain</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+## Hi there! 👋
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+I'm **Rahul Jain**, a passionate student at **Poornima University**. I love exploring the world of technology and coding, always eager to learn and grow. Let's connect and create something amazing together!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljain143&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljain143" /> </p>
+## About Me
 
-- 🌱 I’m currently learning **Python**
+I'm currently based in **Jaipur, Rajasthan**. As a student, I am dedicated to enhancing my skills in programming and software development. I believe in the power of collaboration and continuous learning.
 
-- I’m currently working on **NitiPravh**
+## Skills & Technologies
 
-- 📫 How to reach me **rahuljai059@gmail.com**
+html,css,js,py
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-jain-75ba23290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-jain-75ba23290" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rahuljai059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahuljai059" height="30" width="40" /></a>
-</p>
+## Top Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- [Rahuljain143](https://github.com/Rahuljain143/Rahuljain143)
+  - A personal repository showcasing my coding skills and projects.
+  - ⭐ 0 Stars | 🌟 0 Forks | 🐛 0 Open Issues
+  - Primary Language: Not specified
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuljain143&show_icons=true&locale=en&layout=compact" alt="rahuljain143" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljain143&show_icons=true&locale=en" alt="rahuljain143" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuljain143&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljain143&" alt="rahuljain143" /></p>
+- **Public Repositories**: 1
+- **Followers**: 1
+- **Following**: 3
+
+## Recent Activity
+
+- **Updated** README.md in [Rahuljain143](https://github.com/Rahuljain143/Rahuljain143)
+- **Created** new repository [Rahuljain143](https://github.com/Rahuljain143/Rahuljain143)
+- **Watched** repository [ZTM Python Course Exercises](https://github.com/aneagoie/ztm-python-course-exercises)
