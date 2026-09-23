@@ -4,11 +4,11 @@
   
 
 ### <div align="center">Hi there! 👋
-I'm <b>Rahul Jain</b>, a passionate student at Poornima University. 
+I'm <b>Rahul Jain</b>, a passionate Web Developer or Frontend Developer. 
 I love exploring the world of technology and coding, always eager to learn and grow. Let's connect and create something amazing together!</div>  
   
 
-- 🔭 I’m currently working on Nitiparvh  
+- 🔭 I’m currently working on Myself and grinding life  
   
 
 - 🌱 I’m currently learning Python   
